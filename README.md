@@ -1,1 +1,1 @@
-# pto-for-npm
+[pinf.to](http://pinf.to) command-line tool for [npm](http://npmjs.org).

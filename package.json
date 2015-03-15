@@ -1,0 +1,15 @@
+{
+  "name": "pto",
+  "version": "0.1.0",
+  "bin": {
+    "pto": "./bin/pto"
+  },
+  "dependencies": {
+  	"to.pinf.lib": "0.1.x"
+  },
+  "config": {
+    "pio.deploy.converter": {
+      "name": "nodejs-lib"
+    }
+  }
+}
