@@ -5,6 +5,7 @@
     "pto": "./bin/pto"
   },
   "dependencies": {
+    "bash.origin": "0.1.x",
   	"to.pinf.lib": "0.1.x"
   },
   "config": {
